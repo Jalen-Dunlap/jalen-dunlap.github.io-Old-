@@ -1,6 +1,8 @@
 # About
 
-## About DunlApp Builders
+## [HOME](https://jalen-dunlap.github.io/) [ABOUT](https://jalen-dunlap.github.io/about.html)
+
+### About DunlApp Builders
 
 DunlApp Builders is currently a single person developer team run by Jalen Dunlap
 
