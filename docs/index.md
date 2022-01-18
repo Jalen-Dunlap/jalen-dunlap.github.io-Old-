@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to DunlApp Builders' Website
 
-You can use the [editor on GitHub](https://github.com/Jalen-Dunlap/jalen-dunlap.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can find any current information relating to projects, apps, and updates relating to DunlApp builders
 
 ### Markdown
 
