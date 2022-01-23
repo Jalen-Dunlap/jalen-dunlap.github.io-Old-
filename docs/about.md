@@ -1,6 +1,6 @@
 # About
 
-## [HOME](https://jalen-dunlap.github.io/) [ABOUT](https://jalen-dunlap.github.io/about.html)
+## [HOME](https://jalen-dunlap.github.io/) [ABOUT](https://jalen-dunlap.github.io/about.html) [APPS](https://jalen-dunlap.github.io/apps/apps.html)
 
 ### About DunlApp Builders
 
